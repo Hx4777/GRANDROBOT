@@ -26,7 +26,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 
 PM_START_TEXT = """
-**Hello {}, My Name is {}!** 
+**Hello {}, Toon bot is {}!** 
 I am an **SUPERB**  group management bot.
 You can find the list of available commands with /help.
 
@@ -34,7 +34,7 @@ You can find the list of available commands with /help.
 
 HELP_STRINGS = """
 
-Hello! my name *{}*.
+Hello! my name *{Toon bot}*.
 
 *Main* commands available:
  - /start: start the bot
